@@ -101,8 +101,4 @@ mvn spring-boot:run
 ### 👨‍💻 Author
 
 Dhiraj Pramod Badgujar
-[LinkedIn](https://www.linkedin.com/in/dhiraj-badgujar/) • [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
-Would you like me to push this into your project as a file too?
+[LinkedIn](https://www.linkedin.com/in/dhiraj-badgujar/) 
